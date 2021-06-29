@@ -1,5 +1,5 @@
 {
-  "name": "validacao-bancaria-br",
+  "name": "validacao-bancaria-brasileira",
   "version": "0.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daniel-dia/br-bank-account-validator.git"
+    "url": "https://github.com/eduardocappellotto/validacao-bancaria-brasileira.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daniel-dia/br-bank-account-validator.git/issues"
+    "url": "https://github.com/eduardocappellotto/validacao-bancaria-brasileira.git/issues"
   },
-  "homepage": "https://github.com/daniel-dia/br-bank-account-validator.git",
+  "homepage": "https://github.com/eduardocappellotto/validacao-bancaria-brasileira.git",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/lodash": "^4.14.161",
