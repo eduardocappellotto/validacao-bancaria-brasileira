@@ -36,7 +36,7 @@ Se os dados não forem válidos uma erro será lançada com a descrição do pro
 # Exemplo de utilização
 
 ```ts
-import BankAccountValidator from "br-bank-account-validator";
+import BankAccountValidator from "validacao-bancaria-brasileira";
 
 try {
     BankAccountValidator.validate({
