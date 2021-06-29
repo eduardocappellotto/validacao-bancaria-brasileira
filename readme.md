@@ -16,12 +16,12 @@ O número da agência e conta corrente dos bancos Itaú, Bradesco, e Banco do Br
 
 Primeiro instale o pacote
 
-`npm install br-bank-account-validator --save`
+`npm install validacao-bancaria-brasileira --save`
 
 Importe o módulo na sua aplicação
 
 ```ts
-import BankAccountValidator from "br-bank-account-validator";
+import BankAccountValidator from "validacao-bancaria-brasileira";
 ```
 
 Depois utilize o método `BankAccountValidator.validate` com os seguintes objetos: 
